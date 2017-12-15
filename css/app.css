@@ -59,6 +59,10 @@ h2 {
     background-color: #d32f2f;
 }
 
+#hawai {
+    background-color: #d32f2f;
+}
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
